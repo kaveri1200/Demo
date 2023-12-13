@@ -1,10 +1,10 @@
 package myprojectsecond.flipkart;
 
 /**
- * Hello world!
+ * Hello world!github
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
